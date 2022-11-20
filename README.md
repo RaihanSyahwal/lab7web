@@ -33,7 +33,7 @@ kondisi if
 ![gambar 9](ss/gambar8.png)
 ## langkah 9
 kondisi switch
-![gambar 10](ss/gambar9.png.png)
+![gambar 10](ss/gambar9.png)
 ## langkah 10
 perulangan for
 ![gambar 11](ss/gambar10.png)
